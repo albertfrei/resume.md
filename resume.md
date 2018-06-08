@@ -24,3 +24,12 @@ albert.h.frei@gmail.com
 * Emptied recycling bins in three buildings on a daily basis.
 * Baled cardboard.
 
+**Customer Service Representative,** Sykes, Provo, UT. November 2016 to January 2018. 
+* Took calls from customers concerning their credit card.
+* Interacted in a polite and professional manner.
+* Kept track of my metrics and set personal goals to improve them.
+
+**Sandwich Artist, Subway,** Bremerton, WA. December 2014 to September 2016. 
+* Worked quickly and accurately to satisfy customer needs.
+* As a team made sandwiches to customer specifications.
+* Kept the workplace clean.
