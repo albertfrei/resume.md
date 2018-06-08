@@ -12,3 +12,5 @@ albert.h.frei@gmail.com
 
 **Olympic College,** Bremerton, WA. 2014 to 2015. Major.
 * I took classes during high school as part of the running start program in Washington state.
+
+## Skills
