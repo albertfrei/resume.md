@@ -15,3 +15,12 @@ albert.h.frei@gmail.com
 
 ## Skills
 ### Languages
+* C#
+* C++
+* Assembly
+
+## Experience
+**Recycling Helper,** UVU, Orem, UT. January 2018 to May 2018.
+* Emptied recycling bins in three buildings on a daily basis.
+* Baled cardboard.
+
