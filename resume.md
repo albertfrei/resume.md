@@ -4,4 +4,4 @@ albert.h.frei@gmail.com
 
 ## Education
 **Utah Valley University,**  Orem, UT. 2016 to Present. Computer Science Major.
-*Currently in my sophomore year.
+* Currently in my sophomore year.
