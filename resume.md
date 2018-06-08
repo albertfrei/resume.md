@@ -14,3 +14,4 @@ albert.h.frei@gmail.com
 * I took classes during high school as part of the running start program in Washington state.
 
 ## Skills
+### Languages
