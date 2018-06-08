@@ -7,7 +7,6 @@ albert.h.frei@gmail.com
 **Utah Valley University,**  Orem, UT. 2016 to Present. Computer Science Major.
 * Currently in my sophomore year.
 
-
 **Olympic High School,** Bremerton, WA. 2014 to 2016. Major.
 * Graduated in June of 2016.
 
